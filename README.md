@@ -10,9 +10,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>
   <em>
-    I am a <b>Data Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a strong background in **Machine learning**, **Generative AI**, **Data Engineering** and **applied AI systems**.
+    I am a <b>Data Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a strong background in Machine learning, Generative AI, Data Engineering and applied AI systems.
 
-  Currently working at **KSB SE & Co. KGaA** in Germany 🇩🇪, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  Currently working at **KSB SE & Co. KGaA** in Germany 🇩🇪, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture. 
   </em>  
 </p>
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 🌐 Connect with Me
+# 🌐 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <div align="center">
   
