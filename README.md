@@ -16,14 +16,6 @@
   </em>  
 </p>
 
-- 🔭 **Currently working on:** Time-series forecasting research with TiReX model and LLM-based AI assistants
-- 🌱 **Currently learning:** Advanced MLOps practices, xLSTM architectures, and Vector Database optimization
-- 🎓 **Education:** Dual Master's in Computer Science (ESPRIT) & Data Science (Schmalkalden University)
-- 💡 **Research interests:** Generative AI, RAG systems, Time-Series Classification, NLP
-- 🌍 **Location:** Mannheim, Germany
-- 📫 **Reach me:** sarasafer59@gmail.com | [LinkedIn](https://linkedin.com/in/sarrasafer)
-- 💬 **Ask me about:** LLMs, RAG pipelines, Time-Series Forecasting, MLOps, Healthcare AI
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
