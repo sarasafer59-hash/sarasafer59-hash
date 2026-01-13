@@ -12,7 +12,7 @@
   <em>
     I am a <b>Data Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a strong background in Machine learning, Generative AI, Data Engineering and applied AI systems.
 
-  Currently working at **KSB SE & Co. KGaA** in Germany 🇩🇪, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture. 
+  Currently working at **KSB SE & Co. KGaA** in Germany as an **AI Engineer**, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture. 
   </em>  
 </p>
 
