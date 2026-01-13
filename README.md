@@ -1,11 +1,11 @@
-# Hello There, I'm Sarra Safer! 👋😎
+# Hello There, I'm Sarra Safer! 👋
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Enthusiast;LLM+%26+RAG+Pipeline+Developer)](https://git.io/typing-svg)
   
 </div>
-![BoyKisserBoykisserGIF](https://github.com/user-attachments/assets/988e07ca-44c6-4060-a86c-0a2c550cc44c)
+[BoyKisserBoykisserGIF](https://github.com/user-attachments/assets/988e07ca-44c6-4060-a86c-0a2c550cc44c)
 
 # 🚀 About Me
 
