@@ -1,18 +1,20 @@
 # Sarra Safer!;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Enthusiast;LLM+%26+RAG+Pipeline+Developer)](https://git.io/typing-svg)
   
 </div>
-[BoyKisserBoykisserGIF](https://github.com/user-attachments/assets/988e07ca-44c6-4060-a86c-0a2c550cc44c)
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-# 🚀 About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p>
+  <em>
+    I am a <b>Data Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a strong background in **Machine learning**, **Generative AI**, **Data Engineering** and **applied AI systems**.
 
-I am a **Data Science Engineer** with a strong background in **Machine learning**, **Generative AI**, **Data Engineering** and **applied AI systems**. Currently working at **KSB SE & Co. KGaA** in Germany 🇩🇪, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture.
+  Currently working at **KSB SE & Co. KGaA** in Germany 🇩🇪, where I build LLM-based applications, develop RAG pipelines on Databricks, and conduct research on advanced time-series models like TiReX with xLSTM architecture. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
 
 - 🔭 **Currently working on:** Time-series forecasting research with TiReX model and LLM-based AI assistants
 - 🌱 **Currently learning:** Advanced MLOps practices, xLSTM architectures, and Vector Database optimization
